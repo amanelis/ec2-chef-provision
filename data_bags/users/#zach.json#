@@ -1,0 +1,12 @@
+{
+  "comment": "zach little",
+  "groups": "sysadmin",
+  "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAnVENFy7rLjizabZ8eZJYNiiW+9XxLp1mAPuSPF6tkhnB6nZ3kM2KBcl/F+MTS0oCK8Xc6ErDI4qdOqriWB/OKSRGCFsnPIPP9INXUhwG9Ou3tqceJwUMg0knpEQYYi1fnarCqx8JxrZXAFyK8mRXntPTN6GxtFzg3khbPTg2RpRg56IDQ8s4L/JtdBFBjwwVSsKsG3ECoKWP4BiCmdSsEdq59PsevAGJN/+68o5AvZqJo9P5h+TwcN/UO0x9mtLTd9FZ2ReOdp3R3iQHIbdiMkHN+H949AxEUH6jdCTDVKYh9bDH7wpclhZxZ2aZoOPILKqDfFlNna8nUlMNUpCoGQ== zach@rightscale.com",
+  "nagios": {
+    "email": "zach@sonian.net"
+  },
+  "id": "zach",
+  "uid": 2011,
+  "shell": "/bin/bash"
+}
+~

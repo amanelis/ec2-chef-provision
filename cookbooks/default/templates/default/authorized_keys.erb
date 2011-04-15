@@ -1,0 +1,7 @@
+<% if @ssh_keys.is_a? Array %>
+<% @ssh_keys.each do |key| %>
+<%= key %>
+<% end %>
+<% else %>
+<%= @ssh_keys %>
+<% end %>

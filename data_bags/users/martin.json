@@ -1,0 +1,11 @@
+{
+  "comment": "Martin Rhoads",
+  "groups": "sysadmin",
+  "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAIEAsh35wiLeNpNLclV9BJ6nKs4bicuT1ayjc+4GJjADXyNT7POhuqvJQWy9SAeCygk3rZ8jKiQvBI8Beju15Yt00HAYYj0uhBUvKrFEb+h13Z1rprDudunBr/hB6KoO5fq0Jgtn1oF3Ct03khvks8s/osQ9vaRNoUqH7RZucHgHB4M= mrhoads@atom02",
+  "nagios": {
+    "email": "martin.rhoads@sonian.net"
+  },
+  "id": "martin",
+  "uid": 2010,
+  "shell": "/bin/bash"
+}

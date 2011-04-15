@@ -1,0 +1,29 @@
+{
+  "groupings": {
+  },
+  "recipes": {
+  },
+  "recommendations": {
+  },
+  "description": "Installs/Configures webserver",
+  "suggestions": {
+  },
+  "attributes": {
+  },
+  "conflicting": {
+  },
+  "long_description": "= DESCRIPTION:\n\n= REQUIREMENTS:\n\n= ATTRIBUTES: \n\n= USAGE:\n\n",
+  "dependencies": {
+  },
+  "providing": {
+  },
+  "platforms": {
+  },
+  "maintainer": "Example Com",
+  "name": "webserver",
+  "version": "0.1.0",
+  "replacing": {
+  },
+  "license": "Apache 2.0",
+  "maintainer_email": "ops@example.com"
+}

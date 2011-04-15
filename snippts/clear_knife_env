@@ -1,0 +1,24 @@
+#!/usr/bin/env ruby
+
+require 'rubygems'
+require 'chef'
+require 'chef/knife' 
+#require 'chef/search'
+
+c = Chef::Knife.new 
+c.configure_chef 
+q = Chef::Search::Query.new
+r = q.search(:node, 'roles:*')
+
+begin
+  r.first.first.name
+  k = Chef::Knife.new
+  k.delete_object(Chef::Node, r.first.first.name)
+rescue
+end
+
+
+
+puts "exiting"
+
+
