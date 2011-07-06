@@ -3,4 +3,4 @@ knife ec2 server create  "role[webserver]" -i ami-af7e2eea -G default -x ubuntu 
 knife ec2 server create  "role[webserver]" -i ami-af7e2eea -G default -x ubuntu -f t1.micro --region us-west-1 -Z us-west-1b -S default -I /Users/martin/Dropbox/ec2/accounts/martinrhoads/keys/default-west
 
 
-knife ec2 server create  "role[webserver]" -i ami-116f3c54 -G default -x ubuntu -f t1.micro --region us-west-1 -Z us-west-1b -S default -I /Users/martin/Dropbox/ec2/accounts/martinrhoads/keys/default-west
+knife ec2 server create -r "role[default]" -I ami-af7e2eea -G default -x ubuntu -f t1.micro --region us-west-1 -Z us-west-1b -S default -i /Users/martin/Dropbox/ec2/accounts/martinrhoads/keys/default-west

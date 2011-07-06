@@ -1,7 +1,7 @@
 {
   "comment": "Martin Rhoads",
   "groups": "sysadmin",
-  "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAIEAsh35wiLeNpNLclV9BJ6nKs4bicuT1ayjc+4GJjADXyNT7POhuqvJQWy9SAeCygk3rZ8jKiQvBI8Beju15Yt00HAYYj0uhBUvKrFEb+h13Z1rprDudunBr/hB6KoO5fq0Jgtn1oF3Ct03khvks8s/osQ9vaRNoUqH7RZucHgHB4M= mrhoads@atom02",
+  "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAusg0rH/pMbGOdeOjhgXWmzzDqc/uniVGH3CRLpAwBtAUXFxH415MVs3k5XyOvSz3Hq2/obD1qEKAxx6O5RYNiSEcg23bboI7rAThKiE4UvP0JVT9k1WPKwMd5RanCTOVTI6aCu7JnJsGp/LfhLUsaJpiBtkQP/J2bK8bpJ4TahrScBtCsMRTYmVWbbgfuNfQjBeUHlwlSp5EbNL5GXb7EtoHQN3y3WkOFPMGZcSVFV6mZIzbiLe+6QxJAxUmahFSLyiSlg78V5+yQ6aLy6YR9IJOELszhiPcXPQ0+H3/CSRyZwItUdh2XLxQIDwlpgcYJG3ZroDTZD2gc5FpLZzYBQ== martin@tubi.local",
   "nagios": {
     "email": "martin.rhoads@sonian.net"
   },
